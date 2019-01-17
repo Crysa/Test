@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item name="banner_recycler" type="id"/>
+  <item name="title_left" type="id"/>
+  <item name="title_view" type="id"/>
+  <item name="title_right" type="id"/>
+  <item name="tag_key_holder" type="id"/>
+  <item name="tag_key_check" type="id"/>
+  <item name="tag_key_binding" type="id"/>
+  <item name="tag_key_item" type="id"/>
+
+  <item name="tag_touch_listener" type="id"/>
+
+</resources>

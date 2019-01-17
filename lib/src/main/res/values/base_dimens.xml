@@ -1,0 +1,54 @@
+<resources>
+  <dimen name="btn_text_size">16sp</dimen>
+  <dimen name="view_text_size">10sp</dimen>
+  <!--TitleView-->
+  <dimen name="title_height">45dp</dimen>
+  <dimen name="bottom_height">45dp</dimen>
+  <dimen name="title_left_image">17dp</dimen>
+  <dimen name="title_padding">12dp</dimen>
+  <dimen name="title_heading_size">14sp</dimen>
+  <dimen name="title_size">18sp</dimen>
+
+
+  <!-- Default screen margins, per the Android Design guidelines. -->
+  <dimen name="slide_margin">16dp</dimen>
+
+  <dimen name="divider_height">1px</dimen>
+
+  <!--Popup-->
+  <dimen name="popup_arrow_up_margin_top">13dp</dimen>
+  <dimen name="popup_arrow_down_margin_bottom">13dp</dimen>
+
+  <!--Dialog-->
+  <dimen name="dialog_radius">10dp</dimen>
+  <dimen name="dialog_action_button_radius">2dp</dimen>
+  <!--button-->
+  <dimen name="button_radius">3dp</dimen>
+  <dimen name="button_radius_normal">2dp</dimen>
+  <dimen name="button_radius_small">1dp</dimen>
+
+  <dimen name="button_padding">12dp</dimen>
+  <dimen name="button_border_width">1dp</dimen>
+  <dimen name="button_small_border_width">1px</dimen>
+  <!--Text 字体设置-->
+
+  <dimen name="text_menu">14sp</dimen>
+  <dimen name="text_caption">12sp</dimen>
+  <dimen name="text_body1">14sp</dimen>
+  <dimen name="text_body2">14sp</dimen>
+  <dimen name="text_subhead">16sp</dimen>
+  <dimen name="text_title">20sp</dimen>
+  <dimen name="text_headline">24sp</dimen>
+  <dimen name="body_margin">30dp</dimen>
+
+  <dimen name="divider_margin">10dp</dimen>
+  <dimen name="radius_toast">5dp</dimen>
+  <dimen name="layout_padding">20dp</dimen>
+  <dimen name="edit_padding">10dp</dimen>
+  <dimen name="normal_margin">20dp</dimen>
+  <dimen name="large_margin">50dp</dimen>
+
+
+
+
+</resources>

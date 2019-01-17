@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--TitleView-->
+  <style name="Title">
+    <item name="android:id">@id/title_view</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">@dimen/title_height</item>
+    <item name="android:background">@drawable/shape_title_background</item>
+    <item name="rightId">@id/title_right</item>
+    <item name="rightSize">@dimen/title_heading_size</item>
+    <item name="clickArea">60dp</item>
+    <item name="rightColor">@color/config_white</item>
+    <item name="leftId">@id/title_left</item>
+    <item name="leftSize">@dimen/title_heading_size</item>
+    <item name="leftColor">@color/config_white</item>
+    <item name="showRight">false</item>
+    <item name="android:padding">@dimen/title_padding</item>
+    <item name="showLeft">false</item>
+    <item name="titleColor">@color/config_white</item>
+    <item name="titleSize">@dimen/title_size</item>
+    <item name="titleText">标题</item>
+  </style>
+
+  <style name="Title.onBack">
+    <item name="showLeft">true</item>
+    <item name="leftHeight">@dimen/title_left_image</item>
+    <item name="leftOnClick">onBackClick</item>
+    <item name="leftImage">@drawable/icon_arrow_left</item>
+  </style>
+
+  <style name="Title.confirm" parent="Title.onBack">
+    <item name="showRight">true</item>
+    <item name="rightText">@string/confirm</item>
+  </style>
+
+
+  <style name="divider">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">@dimen/divider_height</item>
+    <item name="android:background">@color/design_stroke</item>
+  </style>
+
+
+</resources>

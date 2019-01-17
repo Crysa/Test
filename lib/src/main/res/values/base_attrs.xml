@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--TitleView-->
+  <declare-styleable name="TitleView">
+    <attr format="dimension" name="viewPadding"/>
+    <attr format="dimension" name="clickArea"/>
+    <attr format="reference" name="leftId"/>
+    <attr format="reference" name="leftImage"/>
+    <attr format="string" name="leftText"/>
+    <attr format="color" name="leftColor"/>
+    <attr format="dimension" name="leftSize"/>
+    <attr format="dimension" name="leftWidth"/>
+    <attr format="dimension" name="leftHeight"/>
+    <attr format="string" name="leftOnClick"/>
+    <attr format="boolean" name="showLeft"/>
+    <attr format="string" name="titleText"/>
+    <attr format="color" name="titleDividerColor"/>
+    <attr format="dimension" name="titleDividerHeight"/>
+    <attr format="color" name="titleColor"/>
+    <attr format="dimension" name="titleSize"/>
+    <attr format="reference" name="rightId"/>
+    <attr format="reference" name="rightImage"/>
+    <attr format="string" name="rightText"/>
+    <attr format="color" name="rightColor"/>
+    <attr format="dimension" name="rightSize"/>
+    <attr format="dimension" name="rightWidth"/>
+    <attr format="dimension" name="rightHeight"/>
+    <attr format="string" name="rightOnClick"/>
+    <attr format="boolean" name="showRight"/>
+  </declare-styleable>
+</resources>
